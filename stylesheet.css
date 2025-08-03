@@ -133,3 +133,8 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.featured-paper {
+  background: #fffbe6; /* light yellow */
+  border: 2px solid #ffd700; /* gold border */
+}
