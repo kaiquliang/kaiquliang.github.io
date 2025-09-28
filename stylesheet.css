@@ -81,12 +81,12 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15.5px;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15.5px;
 }
 
 h2 {
@@ -137,4 +137,8 @@ span.highlight {
 .featured-paper {
   background: #fffbe6; /* light yellow */
   border: 2px solid #ffd700; /* gold border */
+}
+
+table {
+  max-width: 880px !important;
 }
