@@ -139,6 +139,11 @@ span.highlight {
   border: 2px solid #ffd700; /* gold border */
 }
 
+/* light grey line between publications */
+.pub-table > tbody > tr + tr > td {
+  border-top: 1px solid #e8e8e8;
+}
+
 table {
   max-width: 905px !important;
 }
